@@ -6,4 +6,4 @@ Thành viên:
   - Github: [itskoi](https://github.com/itskoi)
 - **Hình Ích Trình**
   - MSSV: *19127303*
-  - Github: 
+  - Github: [Trinh Hinh](https://github.com/trinhhinh729)

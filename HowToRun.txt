@@ -1,0 +1,15 @@
+In this notebook file, we will be coding on min_ds-env environment with some extra modules: geoplot, thefuzz.
+From the command prompt type "conda activate min_ds-env" to activate our coding environment.
+
+- Install geoplot module:
+  + Just run the following command and it will automatically install other related modules: "conda install geoplot -c conda-forge".
+  + Enter "yes" or "y" during the process if needed.
+
+For more information about installing geoplot module, please visit "https://residentmario.github.io/geoplot/installation.html?fbclid=IwAR1aczmgvjHxixQDdPDnQAwzZC_niWcOTE8gHb_RUfCqoIK-rvdoL5X59LU".
+
+
+- Install thefuzz module:
+  + Just run the following command: "pip install thefuzz".
+
+For more information about installing thefuzz module, please visit "https://github.com/seatgeek/thefuzz".
+
